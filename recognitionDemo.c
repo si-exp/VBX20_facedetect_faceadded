@@ -53,9 +53,9 @@ int id_check = 0;
 int db_end_idx = 4;
 int face_count = 0;
 char *db_nameStr[DB_LENGTH] = {
-	"Bob",
-	"John",
-	"Nancy",
+	"Higuchi",
+	"Otani",
+	"Si",
 	"Tina",
 };
 
